@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774598751409",
+    "firebase_url": "https://place-guide-641ad.firebaseio.com",
+    "project_id": "place-guide-641ad",
+    "storage_bucket": "place-guide-641ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774598751409:android:e47da1710ea3b781d29e90",
+        "android_client_info": {
+          "package_name": "com.literacis.place_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774598751409-p4mlqhbmd0goni79bmvmult6cj3rafd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.literacis.place_guide",
+            "certificate_hash": "435eaf8deba841bb506716b7feb5e444661bd36d"
+          }
+        },
+        {
+          "client_id": "774598751409-l8bm3jg7h6ltdqfq072ssgdjk0vj637c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wTqmpi7PEP0iCy_tTOyTsCTvi8iNtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774598751409-l8bm3jg7h6ltdqfq072ssgdjk0vj637c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,104 @@
+{
+  "forts":[
+    {
+      "id": 1,
+      "name": "Shivneri",
+      "photo": "https://im.whatshot.in/img/2020/Feb/panormicviewfort-800x441-cropped-1582733962.jpg",
+      "location": "",
+      "opening-time": "",
+      "closing-time": "",
+      "highlights": "## hello world!"
+    },
+    {
+      "id": 2,
+      "name": "Sinhgad",
+      "photo":"https://thumbs.dreamstime.com/b/road-to-sinhgad-fort-rainy-weather-maharashtra-pune-141169016.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Raigad"
+    },
+    {
+      "id": 4,
+      "name": "Torna"
+    },
+    {
+      "id": 5,
+      "name": "Rajgad"
+    },
+    {
+      "id": 6,
+      "name": "Rajmachi"
+    },
+    {
+      "id": 7,
+      "name": "Tung"
+    },
+    {
+      "id": 8,
+      "name": "Trikona"
+    },
+    {
+      "id": 9,
+      "name": "Visapur"
+    },
+    {
+      "id": 10,
+      "name": "Lohgad"
+    }
+  ],
+  "Fun and Treak": [
+    {
+      "id": 1,
+      "name": "Lonavala - Bhushi Dam"
+    },
+    {
+      "id": 2,
+      "name": "Tiger Hill Point"
+    },
+    {
+      "id": 3,
+      "name": "Khandala"
+    },
+    {
+      "id": 4,
+      "name": "Devkund waterfall"
+    },
+    {
+      "id": 5,
+      "name": "Kolad River rafting"
+    }
+  ],
+  "Temple": [
+    {
+      "id": 1,
+      "name": "Dagdusheth Halwai"
+    },
+    {
+      "id": 2,
+      "name": "Bhimashankar"
+    },
+    {
+      "id": 3,
+      "name": "Eskon PratiBalaji"
+    },
+    {
+      "id": 4,
+      "name": "Datta Mandir"
+    }
+  ],
+  "Beaches": [
+    {
+      "id": 1,
+      "name": "Kashid beach"
+    },
+    {
+      "id": 2,
+      "name": "Dive Agar beach"
+    },
+    {
+      "id": 3,
+      "name": "Alibag beach"
+    }
+  ]
+}
